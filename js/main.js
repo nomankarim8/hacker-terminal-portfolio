@@ -29,6 +29,16 @@ about.addEventListener('click', () => {  //have to change this one
   })
 })
 
+
+
+
+
+
+
+
+
+
+nfijahkfnkhfrlnawl nabjkndfrfuihaofoahl haoijfoiaworfal hjaoiufoiasusfoi
 contact.addEventListener('click', () => {  //have to change this one 
   const contactBox = new WinBox({  //have to change this one 
     title: 'contact Me',
