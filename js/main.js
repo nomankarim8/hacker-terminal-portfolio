@@ -30,9 +30,6 @@ about.addEventListener('click', () => {  //have to change this one
 })
 
 
-
-
-
 contact.addEventListener('click', () => {  //have to change this one 
   const contactBox = new WinBox({  //have to change this one 
     title: 'contact Me',
