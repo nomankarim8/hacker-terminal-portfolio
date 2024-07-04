@@ -39,7 +39,7 @@ contact.addEventListener('click', () => {  //have to change this one  --whomi8
     right: 50,
     bottom: 50,
     left: 50,
-    mount: contactContent, //have to change this one 
+    mount: contactContent, //have to change this one --whomi8 
     onfocus: function () {
       this.setBackground('#00aa00')
     },
@@ -49,8 +49,8 @@ contact.addEventListener('click', () => {  //have to change this one  --whomi8
   })
 })
 
-project.addEventListener('click', () => { //have to change this one 
-  const ProjectBox = new WinBox({ //have to change this one 
+project.addEventListener('click', () => { //have to change this one --whomi8 
+  const ProjectBox = new WinBox({ //have to change this one  --whomi8 
     title: 'My project',
     width: '400px',
     height: '400px',
@@ -58,7 +58,7 @@ project.addEventListener('click', () => { //have to change this one
     right: 50,
     bottom: 50,
     left: 50,
-    mount: projectContent, //have to change this one 
+    mount: projectContent, //have to change this one --whomi8 
     onfocus: function () {
       this.setBackground('#00aa00')
     },
