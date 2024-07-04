@@ -19,7 +19,7 @@ about.addEventListener('click', () => {  //have to change this one --whomi8
     right: 50,
     bottom: 50,
     left: 50,
-    mount: aboutContent, //have to change this one 
+    mount: aboutContent, //have to change this one  --whomi8
     onfocus: function () {
       this.setBackground('#00aa00')
     },
@@ -29,10 +29,10 @@ about.addEventListener('click', () => {  //have to change this one --whomi8
   })
 })
 
-contact.addEventListener('click', () => {  //have to change this one 
-  const contactBox = new WinBox({  //have to change this one 
+contact.addEventListener('click', () => {  //have to change this one  --whomi8
+  const contactBox = new WinBox({  //have to change this one  --whomi8
     title: 'contact Me',
-    // modal: true,
+    // modal: true, --whomi8
     width: '400px',
     height: '400px',
     top: 90,
