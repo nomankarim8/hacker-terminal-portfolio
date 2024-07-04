@@ -5,11 +5,6 @@
 
 
 
-
-
-
-
-
 const about = document.querySelector('#about')
 const contact = document.querySelector('#contact')
 const project = document.querySelector('#project')
