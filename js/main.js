@@ -27,8 +27,6 @@ const projectContent = document.querySelector('#project-content')
 
 
 
-
-
 about.addEventListener('click', () => {  //have to change this one 
   const aboutBox = new WinBox({  //have to change this one 
     title: 'About Me',
