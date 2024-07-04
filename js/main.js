@@ -1,15 +1,15 @@
-// edit contain 1
+// edit contain 1--whomi8
 
 const about = document.querySelector('#about')
 const contact = document.querySelector('#contact')
 const project = document.querySelector('#project')
 
-//edit contain 2
+//edit contain 2 --whomi8
 const aboutContent = document.querySelector('#about-content')
 const contactContent = document.querySelector('#contact-content')
 const projectContent = document.querySelector('#project-content')
 
-about.addEventListener('click', () => {  //have to change this one 
+about.addEventListener('click', () => {  //have to change this one --whomi8 
   const aboutBox = new WinBox({  //have to change this one 
     title: 'About Me',
     // modal: true,
