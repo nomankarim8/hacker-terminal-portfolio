@@ -26,7 +26,7 @@ about.addEventListener('click', () => {
   })
 })
 
-contact.addEventListener('click', () => {  //have to change this one  --whomi8
+contact.addEventListener('click', () => {  
   const contactBox = new WinBox({  //have to change this one  --whomi8
     title: 'contact Me',
     // modal: true, --whomi8
