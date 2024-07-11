@@ -10,7 +10,7 @@ const projectContent = document.querySelector('#project-content')
 about.addEventListener('click', () => { 
   const aboutBox = new WinBox({ 
     title: 'About Me',
-    // modal: true
+
     width: '400px',
     height: '400px',
     top: 50,
