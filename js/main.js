@@ -16,7 +16,7 @@ about.addEventListener('click', () => {
     right: 50,
     bottom: 50,
     left: 50,
-    mount: aboutContent, 
+    mount: aboutContent, //have to change this one  --whomi8
     onfocus: function () {
       this.setBackground('#00aa00')
     },
