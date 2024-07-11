@@ -3,7 +3,6 @@ const about = document.querySelector('#about')
 const contact = document.querySelector('#contact')
 const project = document.querySelector('#project')
 
-
 const aboutContent = document.querySelector('#about-content')
 const contactContent = document.querySelector('#contact-content')
 const projectContent = document.querySelector('#project-content')
