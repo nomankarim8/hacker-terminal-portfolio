@@ -25,7 +25,6 @@ about.addEventListener('click', () => {
     },
   })
 })
-
 contact.addEventListener('click', () => {  
   const contactBox = new WinBox({ 
     title: 'contact Me',
