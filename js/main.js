@@ -8,7 +8,7 @@ const contactContent = document.querySelector('#contact-content')
 const projectContent = document.querySelector('#project-content')
 
 about.addEventListener('click', () => { 
-  const aboutBox = new WinBox({  //have to change this one  --whomi8
+  const aboutBox = new WinBox({  /
     title: 'About Me',
     // modal: true, --whomi8
     width: '400px',
