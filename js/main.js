@@ -29,7 +29,6 @@ about.addEventListener('click', () => {
 contact.addEventListener('click', () => {  
   const contactBox = new WinBox({ 
     title: 'contact Me',
-
     width: '400px',
     height: '400px',
     top: 90,
