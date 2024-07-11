@@ -46,7 +46,7 @@ contact.addEventListener('click', () => {
 })
 
 project.addEventListener('click', () => { 
-  const ProjectBox = new WinBox({ //have to change this one  --whomi8 
+  const ProjectBox = new WinBox({  
     title: 'My project',
     width: '400px',
     height: '400px',
