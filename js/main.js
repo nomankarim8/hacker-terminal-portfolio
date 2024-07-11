@@ -44,7 +44,6 @@ contact.addEventListener('click', () => {
     },
   })
 })
-
 project.addEventListener('click', () => { 
   const ProjectBox = new WinBox({  
     title: 'My project',
