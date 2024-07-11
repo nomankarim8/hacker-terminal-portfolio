@@ -54,7 +54,7 @@ project.addEventListener('click', () => {
     right: 50,
     bottom: 50,
     left: 50,
-    mount: projectContent, //have to change this one --whomi8 
+    mount: projectContent, 
     onfocus: function () {
       this.setBackground('#00aa00')
     },
