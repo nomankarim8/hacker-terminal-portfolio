@@ -40,19 +40,6 @@ const projectContent = document.querySelector('#project-content')
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
 about.addEventListener('click', () => { 
   const aboutBox = new WinBox({ 
     title: 'About Me',
