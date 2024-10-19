@@ -1,4 +1,5 @@
 // Now we are creating the java code 
+// nomankarim8 is a created a terminal portfrolio website 
 const about = document.querySelector('#about')
 const contact = document.querySelector('#contact')
 const project = document.querySelector('#project')
