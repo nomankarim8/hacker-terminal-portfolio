@@ -22,6 +22,7 @@
     c = '' + c
     a['_s_' + b] !== c && (a.style.setProperty(b, c), (a['_s_' + b] = c))
   }
+  
   var x = document.documentElement,
     y = [],
     A = 0,
