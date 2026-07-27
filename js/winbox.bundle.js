@@ -1,7 +1,7 @@
 
 ;(function () {
   
-  'use strict'
+  'use strict' 
   var e,
     h = document.createElement('style')
   h.innerHTML =
